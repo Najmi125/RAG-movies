@@ -1,5 +1,6 @@
 # Install required libraries
-pip install faiss-cpu sentence-transformers streamlit requests
+#pip install faiss-cpu sentence-transformers streamlit requests
+pip install -r requirements.txt
 
 import pandas as pd
 import streamlit as st
